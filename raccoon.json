@@ -1,0 +1,14 @@
+{
+  "interactionPoints": [
+    "https://paradoxponder.shop",
+    "https://ponderinparadox.com",
+    "https://pondermanparadoxer.tech"
+  ],
+  "backupInteractionPoints": [
+    "https://paradoxponder.shop/raccoon.json",
+    "https://ponderinparadox.com/raccoon.json",
+    "https://pondermanparadoxer.tech/raccoon.json",
+    "https://raw.githubusercontent.com/d3863724/Maple/main/raccoon.json"
+  ],
+  "validationPeriod": 720000
+}
