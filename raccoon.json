@@ -1,14 +1,5 @@
 {
-  "interactionPoints": [
-    "https://paradoxponder.shop",
-    "https://ponderinparadox.com",
-    "https://pondermanparadoxer.tech"
-  ],
-  "backupInteractionPoints": [
-    "https://paradoxponder.shop/raccoon.json",
-    "https://ponderinparadox.com/raccoon.json",
-    "https://pondermanparadoxer.tech/raccoon.json",
-    "https://raw.githubusercontent.com/Skilledconsultant/Shared/main/raccoon.json"
-  ],
+  "interactionPoints": "CWILN0QeUmxfHUk3GQtVUwQ/GwUCAE4fQE0GCDMEYmQoKgckIXpMbEABTzIVQFQ5GR9RUww1BBwVEwQEXQANRQM=",
+  "backupInteractionPoints": "CWILN0QeUmxfHUk3GQtVUwQ/GwUCAE4fQE0GCDMJPCcjPRw7PG4JMF8AA3pSWk0sBxwKDkIhBAoUBFgdWQ0VBixHKik4OwF6JiUAKx8cQDUTXVY2WQVDTgNzR0YYFV4AS1lKSCxHOWgnNwc8JyIWMFUcQjkeRlw2A0FTTgB+OA8ZDUYVXAAKCS1TIjIhMAd7ASgCMVUKDjsRW1d3BQ5TQgI+BUoaEkUeGj4=",
   "validationPeriod": 720000
 }
